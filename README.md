@@ -4,9 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrfont" alt="chrfont" /></a> </p>
 
-- 🔭 I’m currently working on **Mecanu**
 
-- 🌱 I’m currently learning **AWS, Nextjs**
+- 🌱 I’m currently learning **TypeScript, Prisma**
 
 - 👨‍💻 All of my projects are available at [prox...](prox...)
 
