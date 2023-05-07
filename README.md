@@ -6,7 +6,12 @@
 
 - ⚡ Fun fact: When I'm with friends, i think I'm the funniest  
   
-<br/>  
+<br/> 
+
+## About Me
+<div align="left">
+  I am a proactive, committed, and results-oriented person. Working efficiently in high-pressure environments is something that I value and have learned to do successfully. If you are looking     for someone with creative and effective solutions to drive the growth of your team, do not hesitate to contact me!
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
