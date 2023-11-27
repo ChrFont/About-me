@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning TypeScript and Prisma  
 
 - ❓ Ask me about anything related to React and Nodejs  
-
-- ⚡ Fun fact: When I'm with friends, i think I'm the funniest  
+  
   
 <br/> 
 
