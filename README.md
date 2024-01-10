@@ -1,8 +1,8 @@
 ### <div align="center">👋 Hi! I'm Christian<br/> A passionate full stack developer from Chile</div>  
   
-- 🌱 I’m currently learning TypeScript and Prisma  
+- 🌱 I’m currently learning TypeScript
 
-- ❓ Ask me about anything related to React and Nodejs  
+- ❓ Ask me about anything related to JavaScript, React and Nodejs  
   
   
 <br/> 
