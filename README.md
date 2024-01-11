@@ -1,18 +1,18 @@
-### <div align="center">👋 Hi! I'm Christian<br/> A passionate full stack developer from Chile</div>  
+### <div align="center">👋 Hola! Soy Christian <br/> Un desarrollador full stack de Chile, apasionado por la web</div>  
   
-- 🌱 I’m currently learning TypeScript
+- 🌱 Actualmente estoy aprendiendo TypeScript
 
-- ❓ Ask me about anything related to JavaScript, React and Nodejs  
+- ❓ Preguntame todo lo relacionado con JavaScript, Nodejs, React  
   
   
 <br/> 
 
-## About Me
+## Sobre mí
 <div align="left">
-  I am a proactive, committed, and results-oriented person. Working efficiently in high-pressure environments is something that I value and have learned to do successfully. If you are looking     for someone with creative and effective solutions to drive the growth of your team, do not hesitate to contact me!
+  Soy una persona proactiva, comprometida y orientada a resultados. Trabajar de manera eficiente en ambientes de alta presión es algo que he aprendido a hacer con éxito. Si buscas a alguien con soluciones creativas y efectivas para impulsar el crecimiento de tu equipo, ¡no dudes en contactarme!
 </div>
 
-## My Skill Set  
+## Habilidades  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -55,7 +55,7 @@
 
 </td></tr></table>  
 
-## Connect with me  
+## Contactame por 
 <div align="center">
 <a href="https://twitter.com/DevRoowbie" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -64,8 +64,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ChrFont&show_icons=true&count_private=true&hide_border=true" align="right" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrFont&hide_border=true&layout=compact" align="left" /></div>
